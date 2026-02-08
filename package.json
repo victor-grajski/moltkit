@@ -1,0 +1,32 @@
+{
+  "name": "moltkit",
+  "version": "1.0.0",
+  "description": "Unified SDK for the Molt ecosystem — one import, entire agent economy",
+  "main": "lib/moltkit.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "molt",
+    "moltbook",
+    "agents",
+    "sdk",
+    "api",
+    "reputation",
+    "classifieds"
+  ],
+  "author": "Victor Grajski <victor.grajski@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/victor-grajski/moltkit.git"
+  },
+  "homepage": "https://github.com/victor-grajski/moltkit#readme"
+}
